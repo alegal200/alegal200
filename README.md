@@ -5,22 +5,24 @@
 * c
 * c++ 
 * c#
-* sql (mysql,oracle, posgres)
+* sql (mysql,oracle, postgres)
 * pl/sql 
 * nosql (mongodb )
 * python 
 * unix/Linux
 * Excel 
 * opencv
-* IA 
+* IA (TensorFlow)
 * HTML
 * CSS
 * Javascript
 * Docker
 * matlab
+* unity
+* xaml
 
 ### comming soon skills 
-* unity
+* Flutter
 * solidity
 * R
 * kotlin
