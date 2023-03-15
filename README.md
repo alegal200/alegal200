@@ -9,7 +9,7 @@
 * java
 * c
 * c++ 
-* c# &  xaml
+* c# & XAML
 * python 
 * matlab
 * Flutter
@@ -21,6 +21,7 @@
 * HTML
 * CSS
 * Javascript
+* React
 
 
 > DATABASE :
@@ -44,8 +45,8 @@
 * Docker
 * Unix/Linux
 * Excel 
-* xMPP
-* MqTT
+* XMPP
+* MQTT
 
 
 
