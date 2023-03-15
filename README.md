@@ -1,32 +1,52 @@
 # ALEGAL200
 
-## SKILLS 
+ I am industrial engineering student (it orientation) Master 1 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alegal200&layout=compact&theme=tokyonight" />
+
+##  MY CURRENT SKILLS 
+> Programing languages :
 * java
 * c
 * c++ 
-* c#
-* sql (mysql,oracle, postgres)
-* pl/sql 
-* nosql (mongodb )
+* c# &  xaml
 * python 
-* unix/Linux
-* Excel 
-* opencv
-* IA (TensorFlow)
-* HTML
-* CSS
-* Javascript
-* Docker
 * matlab
-* unity
-* xaml
-
-### comming soon skills 
 * Flutter
 * solidity
 * R
-* kotlin
+
+> WEB tech :
+
+* HTML
+* CSS
+* Javascript
 
 
-## Extra informations 
-* industrial engineering student (it orientation) M1
+> DATABASE :
+* sql (mysql,oracle, postgres)
+* pl/sql 
+* nosql (mongodb )
+
+
+> LIBRARY & Framework :
+* opencv
+* TensorFlow (IA)
+* unity
+* JDBC
+
+> Network :
+* Switching
+* Routing
+* security 
+
+> Other :
+* Docker
+* Unix/Linux
+* Excel 
+* xMPP
+* MqTT
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=alegal200&show_icons=true&theme=tokyonight" />
