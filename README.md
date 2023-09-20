@@ -1,6 +1,6 @@
 # ALEGAL200
 
- I am industrial engineering student (it orientation) Master 1 
+ I am industrial engineering student (it orientation) Master 2 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alegal200&layout=compact&theme=tokyonight" />
 
@@ -21,7 +21,7 @@
 * HTML
 * CSS
 * Javascript
-* React
+
 
 
 > DATABASE :
